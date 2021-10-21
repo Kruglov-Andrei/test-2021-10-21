@@ -1,3 +1,5 @@
+// проба работы с GitHub, второй commit
+
 public class FigureArea {
     public static void main(String[] args) {
         double s;
