@@ -1,4 +1,4 @@
-// проба работы с GitHub, второй commit
+// проба работы с GitHub, третий commit
 
 public class FigureArea {
     public static void main(String[] args) {
